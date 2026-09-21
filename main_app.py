@@ -10,7 +10,7 @@ from PIL import Image
 # ============================================================
 
 st.set_page_config(
-    page_title="PragyanAI - QR Code Generator & Decoder",
+    page_title="Hello- QR Code Generator & Decoder",
     page_icon="🔳",
     layout="centered"
 )
@@ -20,7 +20,7 @@ st.set_page_config(
 # HEADER
 # ============================================================
 
-st.title("PragyanAI- QR Code Generator & Decoder")
+st.title("Hello- QR Code Generator & Decoder")
 
 st.write(
     "Generate a QR Code from a URL or information, "
