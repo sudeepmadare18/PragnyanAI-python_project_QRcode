@@ -253,7 +253,6 @@ uploaded_file = st.file_uploader(
     ]
 )
 
-Pragyan AI and DS School
 # ============================================================
 # DISPLAY UPLOADED IMAGE
 # ============================================================
