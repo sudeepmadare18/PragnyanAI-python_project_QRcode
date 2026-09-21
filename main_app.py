@@ -254,7 +254,6 @@ uploaded_file = st.file_uploader(
 )
 
 Pragyan AI and DS School
-3:40 PM
 # ============================================================
 # DISPLAY UPLOADED IMAGE
 # ============================================================
